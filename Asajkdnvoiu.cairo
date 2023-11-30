@@ -6,7 +6,7 @@ mod HelloStarknet {
 // money
     #[event] // l0
     fn Hello(from: ContractAddress, value: felt252) {}
-
+// a lot cash 
 
     #[external]
     fn Say_Hello(message: felt252) {
