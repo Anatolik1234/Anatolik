@@ -4,7 +4,7 @@ mod HelloStarknet {
     use starknet::ContractAddress;
 // drop soon 
 // money
-    #[event]
+    #[event] // l0
     fn Hello(from: ContractAddress, value: felt252) {}
 
 
