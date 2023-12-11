@@ -6,7 +6,7 @@ mod HelloStarknet {
 // money // sugarpapa
     #[event] // l0
     fn Hello(from: ContractAddress, value: felt252) {}
-// a lot cash 
+// a lot cash //starkdrop
 // starknet
     #[external] // hello world
     fn Say_Hello(message: felt252) {
