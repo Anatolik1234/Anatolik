@@ -3,7 +3,7 @@ mod HelloStarknet {
     use starknet::get_caller_address;
     use starknet::ContractAddress;
 // drop soon // mama //beliver
-// money // sugarpapa
+// money // sugarpapa //skiski
     #[event] // l0
     fn Hello(from: ContractAddress, value: felt252) {}
 // a lot cash //starkdrop
